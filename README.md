@@ -1,17 +1,14 @@
 ### 👋 Hi there, this is Ali
 
-**alipala/alipala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some items to get an idea about me:
 
-- 🔭 I’m currently working on building test automation 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on building an hybrid test automation framework in a commerce retailing apps for Albert Heijn 
+- 🌱 I’m currently learning Karate BDD, Azure DevOps and Kubernates
+- 👯 I’m looking to collaborate to create a test automation strategy
+- 💬 Ask me about how to start QA stuff from scratch
+- 📫 How to reach me: alipala.ist@gmail.com
+- ⚡ Fun fact: I am Udemy Instructor and have a course about persenal growth and development
 
 <div> 
  
