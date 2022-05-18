@@ -10,8 +10,15 @@ Here are some items to get an idea about me:
 - 📫 How to reach me: alipala.ist@gmail.com
 - ⚡ Fun fact: I am Udemy Instructor and have a course about persenal growth and development
 
+<div align="center">
+<a href="https://www.linkedin.com/in/alipala/">
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:alipala.ist@gmail.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</div>
+
 <div> 
- 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
