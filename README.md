@@ -30,20 +30,20 @@ Here are some items to get an idea about me:
 </div>
 <div align="center">
 <img src='https://img.shields.io/badge/Selenium-F7931E?style=for-the-badge&logo=Selenium&logoColor=white' alt='Selenium' />
-<img src='https://img.shields.io/badge/TestNG-150458?style=for-the-badge&logo=TestNG&logoColor=white' alt='TestNG' />
-<img src='https://img.shields.io/badge/JUnit-8CAAE6?style=for-the-badge&logo=JUnit&logoColor=white' alt='JUnit' />
-<img src='https://img.shields.io/badge/Karate-DSL-013243?style=for-the-badge&logo=Karate-DSL&logoColor=white' alt='Karate-DSL' />
+<img src='https://img.shields.io/badge/testng-150458?style=for-the-badge&logo=testng&logoColor=white' alt='testng' />
+<img src='https://img.shields.io/badge/junit-8CAAE6?style=for-the-badge&logo=junit&logoColor=white' alt='junit' />
+<img src='https://img.shields.io/badge/karadedsl-013243?style=for-the-badge&logo=karadedsl&logoColor=white' alt='karadedsl' />
+<img src='https://img.shields.io/badge/restassured-013243?style=for-the-badge&logo=restassured&logoColor=white' alt='restassured' />
+
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitLab-F05032?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
-<img src='https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='googlecloud' />
+<img src="https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=Azure&logoColor=white" alt="Azure" />
+<img src='https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=Docker&logoColor=white' alt='Docker' />
 </div>
